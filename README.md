@@ -1,7 +1,9 @@
 htop for Raspberry Pi 4b
 -------------------------------
 
-**htop** Ubuntu deb packages modified to display CPU Frequency and CPU Temperature.
+**htop** Ubuntu deb package compiled with support of CPU Frequency and CPU Temperature measure.
+
+Original project is here: https://github.com/htop-dev/
 
 [![htop](https://github.com/bartoll/htop/blob/main/img/htop-screen1.png)]
 
